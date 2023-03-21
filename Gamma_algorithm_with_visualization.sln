@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamma_algorithm_with_visualization", "Gamma_algorithm_with_visualization\Gamma_algorithm_with_visualization.csproj", "{DACECAAF-2C1E-4220-A5DB-0786CA4F58DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithGraphsLibrary", "WorkWithGraphsLibrary\WorkWithGraphsLibrary.csproj", "{75A4875D-0DC1-4CBB-B585-CBF61A099049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DACECAAF-2C1E-4220-A5DB-0786CA4F58DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DACECAAF-2C1E-4220-A5DB-0786CA4F58DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DACECAAF-2C1E-4220-A5DB-0786CA4F58DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DACECAAF-2C1E-4220-A5DB-0786CA4F58DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A4875D-0DC1-4CBB-B585-CBF61A099049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A4875D-0DC1-4CBB-B585-CBF61A099049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A4875D-0DC1-4CBB-B585-CBF61A099049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A4875D-0DC1-4CBB-B585-CBF61A099049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236BF38C-5234-4C63-BE5A-17BB59A2218B}
+	EndGlobalSection
+EndGlobal

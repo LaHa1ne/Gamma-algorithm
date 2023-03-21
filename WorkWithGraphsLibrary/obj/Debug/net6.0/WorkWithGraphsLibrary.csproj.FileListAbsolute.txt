@@ -1,0 +1,12 @@
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\bin\Debug\net6.0\WorkWithGraphsLibrary.deps.json
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\bin\Debug\net6.0\WorkWithGraphsLibrary.dll
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\bin\Debug\net6.0\WorkWithGraphsLibrary.pdb
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.csproj.AssemblyReference.cache
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.AssemblyInfoInputs.cache
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.AssemblyInfo.cs
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.dll
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\refint\WorkWithGraphsLibrary.dll
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\WorkWithGraphsLibrary.pdb
+C:\Users\LaHaine\source\repos\Gamma_algorithm_with_visualization\WorkWithGraphsLibrary\obj\Debug\net6.0\ref\WorkWithGraphsLibrary.dll

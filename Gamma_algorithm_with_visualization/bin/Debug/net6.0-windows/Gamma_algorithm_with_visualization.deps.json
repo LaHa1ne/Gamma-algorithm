@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gamma_algorithm_with_visualization/1.0.0": {
+        "dependencies": {
+          "WorkWithGraphsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Gamma_algorithm_with_visualization.dll": {}
+        }
+      },
+      "WorkWithGraphsLibrary/1.0.0": {
+        "runtime": {
+          "WorkWithGraphsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gamma_algorithm_with_visualization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkWithGraphsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
